@@ -1,0 +1,42 @@
+{
+  "name": "base-project",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@hookform/error-message": "^2.0.1",
+    "@hookform/resolvers": "^3.4.2",
+    "@mui/icons-material": "^5.14.11",
+    "@mui/lab": "^5.0.0-alpha.170",
+    "@mui/material": "^5.14.11",
+    "@syncfusion/ej2-react-dropdowns": "^25.2.5",
+    "axios": "^1.6.0",
+    "i18next": "^23.5.1",
+    "lodash": "^4.17.21",
+    "lodash.get": "^4.4.2",
+    "next": "latest",
+    "react": "latest",
+    "react-alert": "^7.0.3",
+    "react-alert-template-basic": "^1.0.2",
+    "react-dom": "latest",
+    "react-dropdown-tree-select": "^2.8.0",
+    "react-flags-select": "^2.2.3",
+    "react-helmet": "^6.1.0",
+    "react-hook-form": "^7.51.5",
+    "react-i18next": "^11.18.3",
+    "react-router-dom": "^6.23.1",
+    "recoil": "^0.7.7",
+    "yup": "^1.4.0"
+  },
+  "devDependencies": {
+    "eslint": "latest",
+    "eslint-config-next": "latest"
+  }
+}
